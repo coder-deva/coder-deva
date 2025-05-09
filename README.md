@@ -55,7 +55,7 @@
 
 ## 📌 Featured Projects
 
-### 🚗 [CarConnect: Car Rental Platform](https://github.com/coder-deva/carconnect)
+### 🚗 [CarConnect: Car Rental Platform](https://github.com/coder-deva/Hexaware/tree/main/CarConnect)
 Full-stack OOP-based Java app with user authentication, vehicle reservation, admin reporting, and JDBC + MySQL integration.
 
 ### 🎓 [Student Information System](https://github.com/coder-deva/student-information-system)
