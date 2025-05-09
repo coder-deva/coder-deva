@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#ff5722;">YOUR_NAME</span></h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#ff5722;">DEVA R</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Java+%7C+Spring+Boot+%7C+MySQL;Full-Stack+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%9A%80;Open+Source+Lover+%F0%9F%A4%96;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
@@ -22,9 +22,15 @@
 
 ## 🛠️ My Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,vscode,eclipse" />
-</p>
+
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
 ---
 
