@@ -1,24 +1,58 @@
-<h1 align="center">Hi 👋, I'm Deva</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi there 👋, I'm Deva R
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-deva&label=Profile%20views&color=0e75b6&style=flat" alt="coder-deva" /> </p>
+### 💻 Software Developer | 🚀 Tech Enthusiast | 📚 Lifelong Learner
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-deva" alt="coder-deva" /></a> </p>
+---
 
-- 🌱 I’m currently learning **full stack development**
+🌟 Passionate about building impactful software and continuously improving as a developer.
 
-- 💬 Ask me about **html,css,javascript,react**
+- 🔭 I’m currently working on: [Project Name or Area]
+- 🌱 I’m currently learning: [Tech stack or concept you're exploring]
+- 💬 Ask me about: Java, Spring Boot, SQL, Full-Stack Development
+- 📫 How to reach me: [Your Email] | [LinkedIn] | [Portfolio/Website]
+- ⚡ Fun fact: [Something interesting about you]
 
-- 📫 How to reach me **devarameshk2003@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/deva_squash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deva_squash" height="30" width="40" /></a>
+### 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue" width="48%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coder-deva&show_icons=true&locale=en" alt="coder-deva" /></p>
+### 📌 Featured Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-deva&" alt="coder-deva" /></p>
+🔹 [**Project Name**](https://github.com/YOUR_USERNAME/REPO_NAME)  
+_A brief description of what the project does and its tech stack._
+
+🔹 [**Another Project**](https://github.com/YOUR_USERNAME/REPO_NAME)  
+_One line about what this is and why it matters._
+
+---
+
+### 🤝 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=Firefox&logoColor=white)](https://yourportfolio.com)
+[![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+
+---
+
+_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+
