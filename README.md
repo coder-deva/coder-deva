@@ -55,6 +55,14 @@
 
 ## 📌 Featured Projects
 
+### 🍰 [Client Cake Ordering Platform](https://client-cake.vercel.app/)
+Responsive client-side app for browsing, selecting, and ordering cakes. Built with modern UI design and seamless interactions.  
+🔗 [Live Demo](https://client-cake.vercel.app/)
+
+### 🛠️ [Admin Cake Dashboard](https://admin-cake-indol.vercel.app/)
+Powerful admin dashboard for managing cake products, orders, and customer interactions with secure access.  
+🔗 [Live Demo](https://admin-cake-indol.vercel.app/)
+
 ### 🚗 [CarConnect: Car Rental Platform](https://github.com/coder-deva/Hexaware/tree/main/CarConnect)
 Full-stack OOP-based Java app with user authentication, vehicle reservation, admin reporting, and JDBC + MySQL integration.
 
