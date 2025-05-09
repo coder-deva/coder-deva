@@ -66,16 +66,14 @@ Powerful admin dashboard for managing cake products, orders, and customer intera
 ### 🚗 [CarConnect: Car Rental Platform](https://github.com/coder-deva/Hexaware/tree/main/CarConnect)
 Full-stack OOP-based Java app with user authentication, vehicle reservation, admin reporting, and JDBC + MySQL integration.
 
-### 🎓 [Student Information System](https://github.com/coder-deva/student-information-system)
-Java console application for managing student, teacher, course, enrollment, and payment records with SQL backend.
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:2116012@saec.ac.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/deva-r-63ab56275/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"></a>
 </p>
 
