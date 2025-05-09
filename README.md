@@ -1,58 +1,73 @@
-# Hi there 👋, I'm Deva R
-
-### 💻 Software Developer | 🚀 Tech Enthusiast | 📚 Lifelong Learner
-
----
-
-🌟 Passionate about building impactful software and continuously improving as a developer.
-
-- 🔭 I’m currently working on: [Project Name or Area]
-- 🌱 I’m currently learning: [Tech stack or concept you're exploring]
-- 💬 Ask me about: Java, Spring Boot, SQL, Full-Stack Development
-- 📫 How to reach me: [Your Email] | [LinkedIn] | [Portfolio/Website]
-- ⚡ Fun fact: [Something interesting about you]
-
----
-
-### 🛠️ Tech Stack
-
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-
----
-
-### 📈 GitHub Stats
+<h1 align="center">Hi there, I'm [Your Full Name] 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue" width="48%">
+  <b>Software Developer</b> • <b>Backend Engineer</b> • <b>Java | Spring Boot Enthusiast</b>
 </p>
 
 ---
 
-### 📌 Featured Projects
+## 🚀 About Me
 
-🔹 [**Project Name**](https://github.com/YOUR_USERNAME/REPO_NAME)  
-_A brief description of what the project does and its tech stack._
+I’m a passionate software developer with hands-on experience in building Java-based backend systems, RESTful APIs, and database-driven applications. I enjoy solving real-world problems through efficient, scalable, and maintainable code.
 
-🔹 [**Another Project**](https://github.com/YOUR_USERNAME/REPO_NAME)  
-_One line about what this is and why it matters._
-
----
-
-### 🤝 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=Firefox&logoColor=white)](https://yourportfolio.com)
-[![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+- 🎯 Currently working on: `Enterprise Java Applications with Spring Boot & MySQL`
+- 🔍 Exploring: `Cloud Deployment`, `Microservices`, `DevOps Basics`
+- 🧠 Learning: `Docker`, `JUnit`, `System Design`
+- 💬 Ask me about: Java, JDBC, MySQL, Object-Oriented Programming
+- 📫 Reach me at: [youremail@example.com](mailto:youremail@example.com)
 
 ---
 
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+## 🛠️ Tech Stack
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="47%">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="47%">
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 [Student Information System](https://github.com/YOUR_USERNAME/student-information-system)
+A full-featured Java-based console app using JDBC and MySQL for managing students, teachers, courses, and payments.
+
+### 🔹 [CarConnect: Car Rental Platform](https://github.com/YOUR_USERNAME/carconnect)
+An OOP-based Java project with authentication, reservations, admin reports, and SQL backend.
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Strive for progress, not perfection.”</i>
+</p>
