@@ -1,9 +1,9 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#ff5722;">Your Name</span></h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#ff5722;">Deva R</span></h1>
 
 <h3 align="center">💻 Software Developer | 🚀 Tech Enthusiast | 📚 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Passionate+Java+Developer;Spring+Boot+%7C+MySQL+%7C+JDBC+Expert;Open+Source+Contributor;Lifelong+Learner+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Java+%7C+Spring+Boot+%7C+MySQL;Full-Stack+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%9A%80;Open+Source+Lover+%F0%9F%A4%96;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
