@@ -16,10 +16,10 @@
 💡 I believe in writing code that not only works but speaks for itself.  
 🧠 Curious about emerging tech and always ready to learn something new!
 
-- 🔭 Currently working on: **[Project Name]**  
+- 🔭 Currently working on: **Java+React FSD**  
 - 🌱 Currently learning: **Docker, Microservices, and Cloud Deployment**  
 - 💬 Ask me about: **Java, Spring Boot, SQL, JDBC, REST APIs**  
-- 📫 Reach me at: **[youremail@gmail.com] | [LinkedIn] | [yourportfolio.com]**  
+- 📫 Reach me at: **2116012@saec.ac.in | www.linkedin.com/in/deva-r-63ab56275 | [yourportfolio.com]**  
 - ⚡ Fun fact: *I once debugged for 8 hours and fixed the issue with a semicolon!*
 
 ---
@@ -35,12 +35,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=coder-deva&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-deva&theme=github-dark-blue&hide_border=true" width="45%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder-devaE&theme=github_dark" width="90%" />
 </p>
 
 ---
@@ -48,17 +48,17 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=coder-deva&theme=onedark&row=1&column=6" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🚗 [CarConnect: Car Rental Platform](https://github.com/YOUR_USERNAME/carconnect)
+### 🚗 [CarConnect: Car Rental Platform](https://github.com/coder-deva/carconnect)
 Full-stack OOP-based Java app with user authentication, vehicle reservation, admin reporting, and JDBC + MySQL integration.
 
-### 🎓 [Student Information System](https://github.com/YOUR_USERNAME/student-information-system)
+### 🎓 [Student Information System](https://github.com/coder-deva/student-information-system)
 Java console application for managing student, teacher, course, enrollment, and payment records with SQL backend.
 
 ---
@@ -76,7 +76,7 @@ Java console application for managing student, teacher, course, enrollment, and 
 ## 👁️ Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blue&style=flat" alt="YOUR_USERNAME" />
+  <img src="https://komarev.com/ghpvc/?username=coder-deva&label=Profile+Views&color=blue&style=flat" alt="coder-deva" />
 </p>
 
 ---
